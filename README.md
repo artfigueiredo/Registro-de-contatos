@@ -39,7 +39,22 @@ Passo 10 - Após isso no 'Console de Gerenciador de Pacotes' digite o comando 'a
 
 Passo 11 - Logo em seguida no 'Console de Gerenciador de Pacotes' digite 'update-database' para atualizar o banco de dados com as novas atualizações.
 
-Passo 12 - Agora vamos usar o Visual Studio para criar um CRUD. É um CRUD básico, mas é o suficiente para a execução do teste. Botão direito em cima da pasta 'Controllers' de selecionamos Adicionar > Controlador.
+Passo 12 - Agora vamos usar o Visual Studio para criar um CRUD. É um CRUD básico, mas é o suficiente para a execução do teste. Botão direito em cima da pasta 'Controllers' de selecionamos Adicionar > Controlador. Seguindo, selecione MVC Controller com Views.
+![passo-14](https://user-images.githubusercontent.com/87759514/126884812-50f972a2-628a-4722-a729-8b55d61345f5.png)
+![passo mvc](https://user-images.githubusercontent.com/87759514/126884816-7d424497-84b2-476d-87f4-4566ce0796ba.png)
+
+Passo 13 - Selecionamos o modelo, o contexto damos um nome para o controlador. Assim ele vai verificar todas as informações que passamos para ele e vai criar um Crud.
+![passo-15](https://user-images.githubusercontent.com/87759514/126884831-2cb8ec45-92c9-42e1-ae07-e313d0bdaf4d.png)
+
+Passo 14 - Vemos que e ele gerou um construtor com contexto do EntityFramework para acessar o banco de dados. Com isso, na index dele ele vai listar todos os contatos do banco de dados. Na sequência ele vai ter um Get para ver o detalhe do item do banco de dados e retornar uma View, um para criar um item, um para editar e outro para deletar.
+![passo-16](https://user-images.githubusercontent.com/87759514/126884908-c9d86b2d-a692-4e49-849e-a770494374df.png)
+
+Passo 15 - Após todo processo é só executar o projeto.
+![run](https://user-images.githubusercontent.com/87759514/126884938-2dfed061-72be-4b0c-84e4-c896353f8cd9.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Execução
 
 
 
