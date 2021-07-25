@@ -73,3 +73,7 @@ Após a adição de novos dados, será possível observar os detalhes, fazer uma
 
 **<h2>Remoção</h2>**
 ![delete](https://user-images.githubusercontent.com/87759514/126885156-ee7e72e6-050c-487a-816d-892f63cd1eb7.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**<h2>Finalizado</h2>**
