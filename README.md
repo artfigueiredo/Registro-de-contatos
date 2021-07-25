@@ -3,7 +3,7 @@ Local destinado a projetos e testes
 
 Este espaço é destinado a orientação de um protótipo de agenda telefônica, utilizando o framework ASP.NET
 
-Passo 1 - Criar um novo projeto no Visual Studio 2019
+<h2>**Passo 1** - Criar um novo projeto no Visual Studio 2019
 ![passo-01](https://user-images.githubusercontent.com/87759514/126884012-c2080563-f2f6-4e7e-a925-dcf4702b6bce.png)
 
 Passo 2 - Selecionar o modelo de projeto, no caso o "Aplicativo Web do ASP.NET Core (Model-View-Controller)
