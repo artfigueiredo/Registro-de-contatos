@@ -65,11 +65,11 @@ Na página Agenda estarão exibidos todos os contatos que foram cadastrados e te
 
 Após a adição de novos dados, será possível observar os detalhes, fazer uma alteração e a remoção deles também.
 
-Detalhes
+**<h2>Detalhes</h2>**
 ![Detail](https://user-images.githubusercontent.com/87759514/126885160-bbfd27d8-2378-4661-9726-b1a8d68ddf28.png)
 
-- Edição
+**<h2>Edição</h2>**
 ![edit](https://user-images.githubusercontent.com/87759514/126885151-55e84fbf-501c-457e-af62-8310ccd1df59.png)
 
-Remoção
+**<h2>Remoção</h2>**
 ![delete](https://user-images.githubusercontent.com/87759514/126885156-ee7e72e6-050c-487a-816d-892f63cd1eb7.png)
