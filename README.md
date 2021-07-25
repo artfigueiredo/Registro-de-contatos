@@ -63,14 +63,13 @@ Na página Agenda estarão exibidos todos os contatos que foram cadastrados e te
 ![run02](https://user-images.githubusercontent.com/87759514/126885110-3ba4e18b-89a6-481d-b178-60455a329470.png)
 ![criar](https://user-images.githubusercontent.com/87759514/126885114-ab86fa70-2b68-4a1b-8313-a281db910f8a.png)
 
-
 Após a adição de novos dados, será possível observar os detalhes, fazer uma alteração e a remoção deles também.
 
-**Detalhes** -
+Detalhes
 ![Detail](https://user-images.githubusercontent.com/87759514/126885160-bbfd27d8-2378-4661-9726-b1a8d68ddf28.png)
 
-**Edição** - 
+- Edição
 ![edit](https://user-images.githubusercontent.com/87759514/126885151-55e84fbf-501c-457e-af62-8310ccd1df59.png)
 
-**Remoção** - 
+Remoção
 ![delete](https://user-images.githubusercontent.com/87759514/126885156-ee7e72e6-050c-487a-816d-892f63cd1eb7.png)
