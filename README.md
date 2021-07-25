@@ -59,7 +59,8 @@ Execução
 A Home Page será semelhante a essa, toda limpa e sem quase nada de informação. O botão para acessar a página de contatos não existirá a menos que seja configurado via HTML css, então assim que rodar programa será necessário acessar a página pelo nome do endereço no caso "https://localhost:44330/Agendas".
 ![run01](https://user-images.githubusercontent.com/87759514/126885058-ca82aef5-a306-48f4-a730-2ef2b81fe950.png)
 
-Na página Agenda estarão exibidos todos os contatos que foram cadastrados e terá um botão escrito 'Create' para a inserção de novos contatos.![run02](https://user-images.githubusercontent.com/87759514/126885110-3ba4e18b-89a6-481d-b178-60455a329470.png)
+Na página Agenda estarão exibidos todos os contatos que foram cadastrados e terá um botão escrito 'Create' para a inserção de novos contatos.
+![run02](https://user-images.githubusercontent.com/87759514/126885110-3ba4e18b-89a6-481d-b178-60455a329470.png)
 ![criar](https://user-images.githubusercontent.com/87759514/126885114-ab86fa70-2b68-4a1b-8313-a281db910f8a.png)
 
 
@@ -69,7 +70,7 @@ Após a adição de novos dados, será possível observar os detalhes, fazer uma
 - ![Detail](https://user-images.githubusercontent.com/87759514/126885160-bbfd27d8-2378-4661-9726-b1a8d68ddf28.png)
 
 - Edição
-![edit](https://user-images.githubusercontent.com/87759514/126885151-55e84fbf-501c-457e-af62-8310ccd1df59.png)
+- ![edit](https://user-images.githubusercontent.com/87759514/126885151-55e84fbf-501c-457e-af62-8310ccd1df59.png)
 
 - Remoção
-![delete](https://user-images.githubusercontent.com/87759514/126885156-ee7e72e6-050c-487a-816d-892f63cd1eb7.png)
+- ![delete](https://user-images.githubusercontent.com/87759514/126885156-ee7e72e6-050c-487a-816d-892f63cd1eb7.png)
